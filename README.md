@@ -10,7 +10,7 @@ April 2021
 
 ## PySAL Library
 
-The PySAL library is a spatial analysis library composed of multiple packages. Its applications range from data visualization and statistical analysis to modeling spatial relationships in data.
+The PySAL library is a Python spatial analysis library composed of multiple packages. Its applications range from data visualization and statistical analysis to modeling spatial relationships in data.
 
 This project focuses on the data visualization module, one of the 22 packages within PySAL. Specifically, it demonstrates PySAL’s capability for the following:
 
